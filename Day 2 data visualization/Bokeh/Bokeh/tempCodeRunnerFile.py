@@ -1,0 +1,1 @@
+egend.click_policy = "hide"
